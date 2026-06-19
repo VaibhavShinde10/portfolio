@@ -1,10 +1,10 @@
 @font-face {
     font-family: "flaticon";
-    src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.eot") format("embedded-opentype");
-    src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.woff") format("woff"),
-    url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.woff2") format("woff2"),
-    url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.ttf") format("truetype"),
-    url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.svg") format("svg");
+    src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/assets/fonts/flaticon.eot") format("embedded-opentype");
+    src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/assets/fonts/flaticon.woff") format("woff"),
+    url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/assets/fonts/flaticon.woff2") format("woff2"),
+    url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/assets/fonts/flaticon.ttf") format("truetype"),
+    url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/assets/fonts/flaticon.svg") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {

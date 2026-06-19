@@ -752,7 +752,7 @@ input[type=search]:focus::placeholder,
 
 .tm-meta-wrapper .tpmeta-checkbox label::after {
     position: absolute;
-    content: url('https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/pure-metafields/metaboxes/images/icons/check.svg');
+    content: url('https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/pure-metafields/metaboxes/images/icons/check.svg');
     left: 4px;
     top: -1px;
     width: 16px;
@@ -1134,7 +1134,7 @@ span.select2-container--default .select2-selection--multiple {
 }
 
 .tm-datepicker .ui-widget-header .ui-icon {
-	background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/pure-metafields/metaboxes/images/ui-icons_444444_256x240.png");
+	background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/pure-metafields/metaboxes/images/ui-icons_444444_256x240.png");
 }
 
 .tm-datepicker.ui-datepicker .ui-icon {

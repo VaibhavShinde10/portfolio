@@ -55,7 +55,7 @@ body[class*=woocommerce-] .wc-block-cart-item__remove-link:hover, body[class*=wo
 
 @font-face {
   font-family: "gallery_modernregular";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff2") format("woff2"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff") format("woff"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.ttf") format("truetype");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff2") format("woff2"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.woff") format("woff"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/gallerymodern-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -700,7 +700,7 @@ div.demo img {
   transition: all 0.3s ease-out;
 }
 .body-overlay:hover {
-  cursor: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/icon/cross-out.png"), pointer;
+  cursor: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/icon/cross-out.png"), pointer;
 }
 
 .body-overlay.opened {
@@ -6082,27 +6082,27 @@ body .ui-tooltip {
 }
 
 .ui-icon, .ui-widget-content .ui-icon, .ui-widget-header .ui-icon {
-  background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/css/images/ui-icons_444444_256x240.png");
+  background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/css/images/ui-icons_444444_256x240.png");
 }
 
 .ui-button:focus .ui-icon, .ui-button:hover .ui-icon, .ui-state-focus .ui-icon, .ui-state-hover .ui-icon {
-  background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/css/images/ui-icons_555555_256x240.png");
+  background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/css/images/ui-icons_555555_256x240.png");
 }
 
 .ui-button:active .ui-icon, .ui-state-active .ui-icon {
-  background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/css/images/ui-icons_ffffff_256x240.png");
+  background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/css/images/ui-icons_ffffff_256x240.png");
 }
 
 .ui-button .ui-state-highlight.ui-icon, .ui-state-highlight .ui-icon {
-  background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/css/images/ui-icons_777620_256x240.png");
+  background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/css/images/ui-icons_777620_256x240.png");
 }
 
 .ui-state-error .ui-icon, .ui-state-error-text .ui-icon {
-  background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/css/images/ui-icons_cc0000_256x240.png");
+  background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/css/images/ui-icons_cc0000_256x240.png");
 }
 
 .ui-button .ui-icon {
-  background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/css/images/ui-icons_777777_256x240.png");
+  background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/css/images/ui-icons_777777_256x240.png");
 }
 
 .ui-icon-blank {
@@ -9253,7 +9253,7 @@ div.postbox__comment-agree label:hover {
   border: 1px solid rgba(25, 25, 26, 0.1);
 }
 .tp-postbox-details-remeber label::before {
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/icons/check.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/icons/check.svg");
   position: absolute;
   top: -1px;
   left: 3px;
@@ -22484,7 +22484,7 @@ div.tp-gallery-shape-2 img {
 }
 .tp-shop-widget-checkbox ul li label::before {
   position: absolute;
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/inner-shop/check.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/inner-shop/check.svg");
   top: 6px;
   left: 0;
   width: 16px;
@@ -22580,7 +22580,7 @@ div.tp-gallery-shape-2 img {
 }
 .tp-shop-widget-checkbox-circle label::before {
   position: absolute;
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/product/icons/check-2.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/product/icons/check-2.svg");
   top: 3px;
   left: 0;
   width: 18px;
@@ -23561,7 +23561,7 @@ div.tp-gallery-shape-2 img {
 }
 .tp-product-details-review-remeber label::before {
   position: absolute;
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/inner-shop/check.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/inner-shop/check.svg");
   top: 4px;
   left: 0;
   width: 18px;
@@ -24918,7 +24918,7 @@ tbody, td, tfoot, th, thead, tr {
 }
 .tp-checkout-option label::before {
   position: absolute;
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/inner-shop/check.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/inner-shop/check.svg");
   top: 4px;
   left: 0;
   width: 18px;
@@ -25174,7 +25174,7 @@ tbody, td, tfoot, th, thead, tr {
 }
 .tp-return-customer-remeber label::before {
   position: absolute;
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/inner-shop/check.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/inner-shop/check.svg");
   top: 4px;
   left: 0;
   width: 18px;
@@ -26204,7 +26204,7 @@ div.profile__tab ul li.is-active a::after {
 }
 .tp-login-remember label::before {
   position: absolute;
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/inner-shop/check.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/inner-shop/check.svg");
   top: 4px;
   left: 0;
   width: 18px;
@@ -28657,7 +28657,7 @@ a.tp-shop-buy-now-btn:hover::after, a.tp-shop-buy-now-btn:focus::after {
 }
 .woosq-popup .tp-woo-single-action-wishlist button.woosw-btn::before {
   content: "";
-  background-image: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/icons/woocommerce/wishlist-icon.svg");
+  background-image: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/icons/woocommerce/wishlist-icon.svg");
   width: 20px;
   height: 20px;
   display: block;
@@ -28697,7 +28697,7 @@ a.tp-shop-buy-now-btn:hover::after, a.tp-shop-buy-now-btn:focus::after {
   margin-bottom: 10px;
 }
 .woocommerce .woocommerce-error li::before, .woocommerce .woocommerce-warning li::before, .woocommerce .woocommerce-info li::before {
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/icons/woocommerce/error.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/icons/woocommerce/error.svg");
   position: relative;
   top: 2px;
   margin-right: 5px;
@@ -28709,7 +28709,7 @@ a.tp-shop-buy-now-btn:hover::after, a.tp-shop-buy-now-btn:focus::after {
   font-size: 15px;
 }
 .woocommerce .woocommerce-warning li::before, .woocommerce .woocommerce-info li::before {
-  content: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/img/icons/woocommerce/warning.svg");
+  content: url("https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/img/icons/woocommerce/warning.svg");
   top: 4px;
 }
 .woocommerce .woocommerce-warning a, .woocommerce .woocommerce-info a {
@@ -28922,15 +28922,15 @@ a.tp-shop-buy-now-btn:hover::after, a.tp-shop-buy-now-btn:focus::after {
 /*rating icon*/
 @font-face {
   font-family: star;
-  src: url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/star.eot);
-  src: url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/star.eot#iefix) format("embedded-opentype"), url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/star.woff) format("woff"), url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/star.ttf) format("truetype"), url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/star.svg#star) format("svg");
+  src: url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/star.eot);
+  src: url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/star.eot#iefix) format("embedded-opentype"), url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/star.woff) format("woff"), url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/star.ttf) format("truetype"), url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/star.svg#star) format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: WooCommerce;
-  src: url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/WooCommerce.eot);
-  src: url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/WooCommerce.eot#iefix) format("embedded-opentype"), url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/WooCommerce.woff) format("woff"), url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/WooCommerce.ttf) format("truetype"), url(https://github.com/VaibhavShinde10/portfolio-.git/wp-content/themes/liko/assets/fonts/woo/WooCommerce.svg#WooCommerce) format("svg");
+  src: url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/WooCommerce.eot);
+  src: url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/WooCommerce.eot#iefix) format("embedded-opentype"), url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/WooCommerce.woff) format("woff"), url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/WooCommerce.ttf) format("truetype"), url(https://vaibhavshinde10.github.io/portfolio/wp-content/themes/liko/assets/fonts/woo/WooCommerce.svg#WooCommerce) format("svg");
   font-weight: 400;
   font-style: normal;
 }

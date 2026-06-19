@@ -1,9 +1,9 @@
 @font-face {
     font-family: "shofyicon";
-    src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.ttf?3837dea8ee286554e3fb28a0d0007b07") format("truetype"),
-url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.woff?3837dea8ee286554e3fb28a0d0007b07") format("woff"),
-url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.woff2?3837dea8ee286554e3fb28a0d0007b07") format("woff2"),
-url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.eot?3837dea8ee286554e3fb28a0d0007b07#iefix") format("embedded-opentype");
+    src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.ttf?3837dea8ee286554e3fb28a0d0007b07") format("truetype"),
+url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.woff?3837dea8ee286554e3fb28a0d0007b07") format("woff"),
+url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.woff2?3837dea8ee286554e3fb28a0d0007b07") format("woff2"),
+url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/liko-core/include/menu/fonts/shofyicon_shofy.eot?3837dea8ee286554e3fb28a0d0007b07#iefix") format("embedded-opentype");
 }
 
 i[class^="shofyicon-"]:before, i[class*=" shofyicon-"]:before {

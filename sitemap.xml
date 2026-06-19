@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on June 19, 2026 at 7:12 am by All in One SEO v4.9.7.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on June 19, 2026 at 12:06 pm by All in One SEO v4.9.7.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="https://github.com/VaibhavShinde10/portfolio-.git/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://vaibhavshinde10.github.io/portfolio/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/post-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/post-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-08T21:15:47+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/page-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-06-19T06:57:35+00:00]]></lastmod>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-06-19T08:24:46+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/tp-header-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/tp-header-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-19T06:52:31+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/tp-footer-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/tp-footer-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-19T06:43:01+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/tp-services-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/tp-services-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-08T21:15:48+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/tp-offcanvas-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/tp-offcanvas-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-19T06:51:17+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/tp-popup-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/tp-popup-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-08T22:42:38+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/post-archive-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/post-archive-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-08T22:42:38+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/category-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/category-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-08T21:15:47+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[https://github.com/VaibhavShinde10/portfolio-.git/post_tag-sitemap.xml]]></loc>
+		<loc><![CDATA[https://vaibhavshinde10.github.io/portfolio/post_tag-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-06-08T21:15:47+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>

@@ -165,40 +165,40 @@
 
 @font-face {
   font-family: "Roboto";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Regular.woff2") format("woff2");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Roboto";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Bold.woff2") format("woff2");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/Roboto-Bold.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "Lato";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff") format("woff"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff2") format("woff2");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff") format("woff"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-regular-webfont.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Lato";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff") format("woff"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff2") format("woff2");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff") format("woff"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/lato-bold-webfont.woff2") format("woff2");
   font-weight: 700;
   font-style: normal;
 }
 @font-face {
   font-family: "text-security-disc";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff2") format("woff2"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff") format("woff"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.ttf") format("truetype");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff2") format("woff2"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.woff") format("woff"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/text-security-disc.ttf") format("truetype");
 }
 @font-face {
   font-family: "DM Sans";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Regular.ttf") format("truetype");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Regular.ttf") format("truetype");
   font-weight: normal;
 }
 @font-face {
   font-family: "DM Sans";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Bold.ttf") format("truetype");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/DMSans-Bold.ttf") format("truetype");
   font-weight: 700;
 }
 .icon {
@@ -217,7 +217,7 @@
 
 @font-face {
   font-family: "Misettings";
-  src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff2?v=7.5.0") format("woff2"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff?v=7.5.0") format("woff"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.ttf?v=7.5.0") format("truetype"), url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.otf?v=7.5.0") format("opentype");
+  src: url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff2?v=7.5.0") format("woff2"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.woff?v=7.5.0") format("woff"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.ttf?v=7.5.0") format("truetype"), url("https://vaibhavshinde10.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue3/fonts/icons.otf?v=7.5.0") format("opentype");
   font-weight: 400;
   font-style: normal;
 }
