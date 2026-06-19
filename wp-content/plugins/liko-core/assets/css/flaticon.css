@@ -1,0 +1,191 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.eot") format("embedded-opentype");
+    src: url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.woff") format("woff"),
+    url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.woff2") format("woff2"),
+    url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.ttf") format("truetype"),
+    url("https://github.com/VaibhavShinde10/portfolio-.git/wp-content/plugins/liko-core/assets/fonts/flaticon.svg") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flat-icon-next:before {
+    content: "\f101";
+}
+.flat-icon-diagonal-arrow:before {
+    content: "\f102";
+}
+.flat-icon-blueprint:before {
+    content: "\f103";
+}
+.flat-icon-renovation:before {
+    content: "\f104";
+}
+.flat-icon-building:before {
+    content: "\f105";
+}
+.flat-icon-interior-design:before {
+    content: "\f106";
+}
+.flat-icon-quality:before {
+    content: "\f107";
+}
+.flat-icon-worker:before {
+    content: "\f108";
+}
+.flat-icon-check:before {
+    content: "\f109";
+}
+.flat-icon-unfold:before {
+    content: "\f10a";
+}
+.flat-icon-project-management:before {
+    content: "\f10b";
+}
+.flat-icon-management:before {
+    content: "\f10c";
+}
+.flat-icon-satisfaction:before {
+    content: "\f10d";
+}
+.flat-icon-process:before {
+    content: "\f10e";
+}
+.flat-icon-help:before {
+    content: "\f10f";
+}
+.flat-icon-blueprint-1:before {
+    content: "\f110";
+}
+.flat-icon-play-button:before {
+    content: "\f111";
+}
+.flat-icon-3d-model:before {
+    content: "\f112";
+}
+.flat-icon-livingroom:before {
+    content: "\f113";
+}
+.flat-icon-laser-cutting-machine:before {
+    content: "\f114";
+}
+.flat-icon-renovation-1:before {
+    content: "\f115";
+}
+.flat-icon-3d:before {
+    content: "\f116";
+}
+.flat-icon-brickwall:before {
+    content: "\f117";
+}
+.flat-icon-color-adjustment:before {
+    content: "\f118";
+}
+.flat-icon-roof:before {
+    content: "\f119";
+}
+.flat-icon-worker-1:before {
+    content: "\f11a";
+}
+.flat-icon-broken-house:before {
+    content: "\f11b";
+}
+.flat-icon-solar-system:before {
+    content: "\f11c";
+}
+.flat-icon-review:before {
+    content: "\f11d";
+}
+.flat-icon-bed:before {
+    content: "\f11e";
+}
+.flat-icon-relax:before {
+    content: "\f11f";
+}
+.flat-icon-kitchen:before {
+    content: "\f120";
+}
+.flat-icon-electric-panel:before {
+    content: "\f121";
+}
+.flat-icon-heater:before {
+    content: "\f122";
+}
+.flat-icon-lamp:before {
+    content: "\f123";
+}
+.flat-icon-vimeo:before {
+    content: "\f124";
+}
+.flat-icon-facebook:before {
+    content: "\f125";
+}
+.flat-icon-instagram:before {
+    content: "\f126";
+}
+.flat-icon-twitter:before {
+    content: "\f127";
+}
+.flat-icon-youtube:before {
+    content: "\f128";
+}
+.flat-icon-location:before {
+    content: "\f129";
+}
+.flat-icon-message:before {
+    content: "\f12a";
+}
+.flat-icon-mail:before {
+    content: "\f12b";
+}
+.flat-icon-search:before {
+    content: "\f12c";
+}
+.flat-icon-shopping-cart:before {
+    content: "\f12d";
+}
+.flat-icon-down-arrow:before {
+    content: "\f12e";
+}
+.flat-icon-share:before {
+    content: "\f12f";
+}
+.flat-icon-tick:before {
+    content: "\f130";
+}
+.flat-icon-user:before {
+    content: "\f131";
+}
+.flat-icon-phone-call:before {
+    content: "\f132";
+}
+.flat-icon-view:before {
+    content: "\f133";
+}
+.flat-icon-tag:before {
+    content: "\f134";
+}
+.flat-icon-clock:before {
+    content: "\f135";
+}
+.flat-icon-heart:before {
+    content: "\f136";
+}
+.flat-icon-badge:before {
+    content: "\f137";
+}
+.flat-icon-solution:before {
+    content: "\f138";
+}
+.flat-icon-menu:before {
+    content: "\f139";
+}
